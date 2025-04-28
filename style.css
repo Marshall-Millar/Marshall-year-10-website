@@ -1,1 +1,12 @@
-
+body {
+    background-color: lightblue;
+  }
+  p {
+    color: black;
+  }
+  h1 {
+    font-weight: bold;
+    font-family:monospace;
+    font-size: 40px;
+    text-align: center
+  }
