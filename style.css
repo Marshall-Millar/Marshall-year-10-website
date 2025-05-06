@@ -22,12 +22,15 @@ body {
 
   li {
     display: flex;
+    padding-bottom: 20px;
   }
 
   li img {
     width: 100px;
     height: auto;
+    padding-left: 10px;
   }
+
   li span {
     flex-grow: 1;
   }
