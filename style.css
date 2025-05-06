@@ -20,5 +20,16 @@ body {
 
   }
 
+  li {
+    display: flex;
+    
+  }
+
+  li img {
+    width: 100px;
+    height: auto;
+  }
+
+
 
  
