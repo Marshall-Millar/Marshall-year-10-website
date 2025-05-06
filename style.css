@@ -24,8 +24,8 @@ background-color: white;
   }
   
   .indexdiv {
-
-
+    border-style: groove;
+    background-color: greenyellow;
   }
 
   li {
@@ -34,9 +34,9 @@ background-color: white;
   }
 
   li img {
-    width: 100px;
+    width: 150px;
     height: auto;
-    padding-left: 10px;
+    border-style: groove;
   }
 
   li span {
