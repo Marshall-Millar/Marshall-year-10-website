@@ -12,7 +12,15 @@ body {
   }
 
  .imagesdiv {
+display: flex;
+justify-content: center;
+border-style: groove;
+background-color: white;
+}
 
+
+  .image {
+    height: 180px;
   }
   
   .indexdiv {
