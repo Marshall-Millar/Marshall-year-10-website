@@ -4,6 +4,9 @@ body {
   p {
     color: black;
   }
+
+  
+
   h1 {
     font-weight: bold;
     font-family: monospace;
@@ -41,6 +44,11 @@ background-color: white;
 
   li span {
     flex-grow: 1;
+  }
+
+  .ssdiv {
+    border-style: groove;
+    background-color: greenyellow;
   }
 
 
